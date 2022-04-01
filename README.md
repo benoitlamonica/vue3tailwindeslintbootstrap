@@ -1,4 +1,4 @@
-# laulau
+# Vue 3 Bootstrap
 
 ## Project setup
 ```
